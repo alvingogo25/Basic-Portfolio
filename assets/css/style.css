@@ -66,31 +66,37 @@ nav a{
 .sidebar {
 	display: inline-block;
 	float: right;
-	width: 250px;
-	padding: 10px;
+	width: 220px;
+	padding: 25px;
+	font-size: 20px;
 	
 }
 
 .icon {
-	width: 70px;
+	width: 50px;
 	margin-right: 5px;
 }
 
-.title {
+.header-name {
 	display: inline-block;
     background-color: #4aaaa5;
     color: white;
-    font-size: 20px;
-    height: 100%;
-    width: 150px;
-    padding: 20px;
+    margin: 0px;
+    padding: 25px 30px;
     text-align: center;
 
 }
 
-.title2 {
+.teal {
 	color: #4aaaa5;
-	font-size: 20px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.big-font {
+	font-size: 30px;
 }
 
 .thumbnail {
@@ -120,4 +126,13 @@ footer {
 	padding-top: 40px;
 	padding-bottom: 10px;
 
+}
+
+.submit {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+    text-align: center;
+    border: none;
 }
