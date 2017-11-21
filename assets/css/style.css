@@ -5,12 +5,14 @@ body {
 	margin: 0 auto;
 	width: 75%;
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 	max-width: 960px;
 =======
 	min-width: 941px;
 >>>>>>> 9f6bc4d234431b66596f5a65983f0e2acf62b12a
+>>>>>>> e03a9c77ec8189f98ae0798a144b977e6b53c34d
 	margin-top: 100px;
-
 
 }
 
@@ -32,10 +34,13 @@ body {
 	position:relative;
 	width: 75%;
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 	max-width: 960px;
 =======
 	min-width: 941px;
 >>>>>>> 9f6bc4d234431b66596f5a65983f0e2acf62b12a
+>>>>>>> e03a9c77ec8189f98ae0798a144b977e6b53c34d
 	margin: 0 auto;
 }
 
@@ -46,10 +51,16 @@ nav {
   	float: right;
   	padding-top: 20px;
 =======
+<<<<<<< HEAD
+  	position: relative;
+  	float: right;
+  	padding-top: 20px;
+=======
   position: relative;
   float: right;
   padding-top: 20px;
 >>>>>>> 9f6bc4d234431b66596f5a65983f0e2acf62b12a
+>>>>>>> e03a9c77ec8189f98ae0798a144b977e6b53c34d
 }
 
 nav a {
